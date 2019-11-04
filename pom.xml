@@ -3,6 +3,7 @@
   <groupId>io.springboot</groupId>
   <artifactId>coiurse-api</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+<packaging>war</packaging>
   <name>java brains api</name>
   
   <parent>
